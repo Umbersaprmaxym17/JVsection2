@@ -47,7 +47,8 @@ public class MainForFruits {
     }
 
 
-    public static Integer compare() {
+    public static Integer compare(Integer box) {
+
         return null;
     }
 
